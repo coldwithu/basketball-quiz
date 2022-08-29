@@ -7,7 +7,7 @@ function Result({ correct,questionsLen }) {
         <div className="result">
             <img src={resultImg} alt="result icon"/>
             <h2>Вы правильно ответили на {correct} из {questionsLen} вопросов</h2>
-            <a href="/">
+            <a href="/basketball-quiz">
                 <button>Попробовать снова </button>
             </a>
         </div>
