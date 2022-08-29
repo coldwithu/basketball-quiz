@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/basketball-quiz/static/css/main.b69b50e3.css",
-    "main.js": "/basketball-quiz/static/js/main.02b0b501.js",
+    "main.css": "/basketball-quiz/static/css/main.aad4b8cf.css",
+    "main.js": "/basketball-quiz/static/js/main.b8cebed0.js",
     "static/js/787.83904489.chunk.js": "/basketball-quiz/static/js/787.83904489.chunk.js",
     "static/media/basketball.png": "/basketball-quiz/static/media/basketball.68acdaf8006671777123.png",
     "index.html": "/basketball-quiz/index.html",
-    "main.b69b50e3.css.map": "/basketball-quiz/static/css/main.b69b50e3.css.map",
-    "main.02b0b501.js.map": "/basketball-quiz/static/js/main.02b0b501.js.map",
+    "main.aad4b8cf.css.map": "/basketball-quiz/static/css/main.aad4b8cf.css.map",
+    "main.b8cebed0.js.map": "/basketball-quiz/static/js/main.b8cebed0.js.map",
     "787.83904489.chunk.js.map": "/basketball-quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b69b50e3.css",
-    "static/js/main.02b0b501.js"
+    "static/css/main.aad4b8cf.css",
+    "static/js/main.b8cebed0.js"
   ]
 }
