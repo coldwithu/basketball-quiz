@@ -15,7 +15,7 @@ body {
 }
 
 .App{
-  width: 500px;
+  max-width: 500px;
   border-radius: 30px;
   padding: 40px;
   background-color: #fff;
@@ -58,7 +58,7 @@ body {
 
   .result{
     img{
-      width: 130px;
+      width: 60%;
 
     }
     button{
@@ -84,6 +84,14 @@ body {
 
   }
 }
+
+@media (max-width: 500px) {
+  .App{
+    max-width: none;
+  }
+}
+
+
 
 
 
